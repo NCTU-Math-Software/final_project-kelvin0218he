@@ -17,7 +17,7 @@ for n=2:1000
         A=A+(1/N*tall);
     end
     A(n)=A/A1;
-    if A(n)<0.1
+    if A(n)<0.01
         disp(n);
         break;
     end
