@@ -27,4 +27,4 @@ by when_An_is_less_than_01
 
 if n >= 205
 A(n)<0.01
-by when_An_is_less_than_01
+by when_An_is_less_than_001
