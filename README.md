@@ -7,6 +7,9 @@ project3
 將相臨的n單位圓外接一長方形, 並連接長方形左下角及右上角可得一直線並將藍色區域分為兩塊, 定義下方那塊為橘色
 程式會計算橘色及藍色面積的比例
 
+![image](https://github.com/NCTU-Math-Software/final_project-kelvin0218he/blob/main/circle_inside_square.jpg)
+
+
 數學概念：Riemann sum
 
 步驟：
